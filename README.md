@@ -5,6 +5,8 @@
 
 ---
 
+
+
 **Pinia is now the new default**
 
 The official state management library for Vue has changed to [Pinia](https://pinia.vuejs.org). Pinia has almost the exact same or enhanced API as Vuex 5, described in [Vuex 5 RFC](https://github.com/vuejs/rfcs/pull/271). You could simply consider Pinia as Vuex 5 with a different name. Pinia also works with Vue 2.x as well.
